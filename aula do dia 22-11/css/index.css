@@ -1,0 +1,7 @@
+.container-principal{
+    background-color: #00d9ff;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
